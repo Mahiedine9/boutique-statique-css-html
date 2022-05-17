@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+	<head>
+		<meta charset="UTF-8"/>
+		<title>METTRE UN TITRE</title>
+		<meta name="author" content="A MODIFIER"/>
+		<meta name="keywords" content="A COMPLETER"/>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+	<div class="livres">
+       <div class="livre">
+        <div class="couverture">
+				     <img src="dune.jpg">
+				 <div class="info">
+				     <div class=" titre">
+							  <figure> Dune </figure>
+						 <div class="auteur">
+						    <span> Frank Herbert </span>
+								<br>
+             <time> 1965 </time>
+
+		 <div class="livre">
+					<div class="couverture">
+						 	 <img src="tony-chu.jpg">
+					<div class="info">
+						 	 <div class="titre">
+								 <title="Goût décès"
+							 <div class="auteur">
+						 			 <span John Layman - Rob Guillory>
+						   <time datetime="2010" > </time>
+
+			<div class="livre">
+					 <div class="couverture">
+								<img src="seigneur-des-anneaux.png">
+					 <div class="info">
+								<div class="titre">
+									<title="Le seigneur des anneaux">
+								<div class="auteur">
+								 		 <span  JRR Tolkien>
+								<time 1954 >
+
+
+			<div class="livre">
+					 <div class="couverture">
+								<img src="fils-des-brumes.jpg">
+					 <div class="info">
+								<div class="titre">
+									<title=" L'empire ultime">
+								<div class="auteur">
+									  <span Brandon Sanderson>
+								<time 2006 >
+
+
+
+			<div class="livre">
+					 <div class="couverture">
+								<img src=" scorpion.jpg">
+					 <div class="info">
+		  					<div class="titre">
+									<title="La marque du diable">
+								<div class="auteur">
+		 								<span Marini - Desberg >
+								<time 2000 >
+
+
+
+      <div class="livre">
+					 <div class="couverture">
+								<img src="miles-vorkosigan.jpg">
+					 <div class="info">
+					 			<div class="titre">
+									<title="Miles Vorkosigan">
+								<div class="auteur">
+	 									<span Lois McMaster Bujold>
+								<time 1986 >
+
+
+
+
+	</body>
+
+</html>
